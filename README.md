@@ -19,3 +19,4 @@ I build tools where finance, data and AI meet: models that underwrite deals, pip
 #### Contact
 
 Open to roles in AI training and evaluation, finance and private equity, real estate, and software.
+Reach me on [LinkedIn](https://www.linkedin.com/in/wyattcosgriff).
